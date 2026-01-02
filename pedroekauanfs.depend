@@ -1,0 +1,279 @@
+# depslib dependency file v1.0
+1762887674 source:d:\bcc\eda2\sistema de arquivos - pedroekauanfs\blocks.c
+	"blocks.h"
+	"globals.h"
+	"freespace.h"
+	"superblock.h"
+
+1762885390 d:\bcc\eda2\sistema de arquivos - pedroekauanfs\blocks.h
+	"util.h"
+
+1762887662 d:\bcc\eda2\sistema de arquivos - pedroekauanfs\util.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1762884618 d:\bcc\eda2\sistema de arquivos - pedroekauanfs\globals.h
+	"util.h"
+
+1762885134 d:\bcc\eda2\sistema de arquivos - pedroekauanfs\freespace.h
+	"util.h"
+
+1762884886 d:\bcc\eda2\sistema de arquivos - pedroekauanfs\superblock.h
+	"util.h"
+
+1762887680 source:d:\bcc\eda2\sistema de arquivos - pedroekauanfs\dir.c
+	"dir.h"
+	"globals.h"
+	"inode.h"
+	"blocks.h"
+	"freespace.h"
+	"file.h"
+
+1762886782 d:\bcc\eda2\sistema de arquivos - pedroekauanfs\dir.h
+	"util.h"
+
+1762886052 d:\bcc\eda2\sistema de arquivos - pedroekauanfs\inode.h
+	"util.h"
+
+1762887114 d:\bcc\eda2\sistema de arquivos - pedroekauanfs\file.h
+	"util.h"
+
+1762887682 source:d:\bcc\eda2\sistema de arquivos - pedroekauanfs\file.c
+	"file.h"
+	"globals.h"
+	"inode.h"
+	"blocks.h"
+	"freespace.h"
+	"dir.h"
+
+1762887672 source:d:\bcc\eda2\sistema de arquivos - pedroekauanfs\freespace.c
+	"freespace.h"
+	"globals.h"
+
+1762888348 source:d:\bcc\eda2\sistema de arquivos - pedroekauanfs\fs.c
+	"fs.h"
+	"globals.h"
+	"superblock.h"
+	"blocks.h"
+	"freespace.h"
+	"inode.h"
+
+1762887346 d:\bcc\eda2\sistema de arquivos - pedroekauanfs\fs.h
+	"util.h"
+
+1762884704 source:d:\bcc\eda2\sistema de arquivos - pedroekauanfs\globals.c
+	"globals.h"
+
+1762886454 source:d:\bcc\eda2\sistema de arquivos - pedroekauanfs\inode.c
+	"inode.h"
+	"globals.h"
+	"blocks.h"
+
+1762887730 source:d:\bcc\eda2\sistema de arquivos - pedroekauanfs\shell.c
+	"util.h"
+	"globals.h"
+	"fs.h"
+	"dir.h"
+	"file.h"
+	"freespace.h"
+	"superblock.h"
+
+1762887670 source:d:\bcc\eda2\sistema de arquivos - pedroekauanfs\superblock.c
+	"superblock.h"
+	"globals.h"
+
+1762887666 source:d:\bcc\eda2\sistema de arquivos - pedroekauanfs\util.c
+	"util.h"
+
+1762909728 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\blocks.c
+	"blocks.h"
+	"globals.h"
+	"freespace.h"
+	"superblock.h"
+
+1762885390 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\blocks.h
+	"util.h"
+
+1762896351 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\util.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1762884618 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\globals.h
+	"util.h"
+
+1762885134 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\freespace.h
+	"util.h"
+
+1762884886 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\superblock.h
+	"util.h"
+
+1762887672 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\freespace.c
+	"freespace.h"
+	"globals.h"
+
+1762888594 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\fs.c
+	"fs.h"
+	"globals.h"
+	"superblock.h"
+	"blocks.h"
+	"freespace.h"
+	"inode.h"
+	<direct.h>
+
+1762887346 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\fs.h
+	"util.h"
+
+1762914231 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\inode.h
+	"util.h"
+
+1762884704 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\globals.c
+	"globals.h"
+
+1762910459 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\dir.c
+	"dir.h"
+	"globals.h"
+	"inode.h"
+	"blocks.h"
+	"freespace.h"
+	"file.h"
+
+1762886782 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\dir.h
+	"util.h"
+
+1762887114 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\file.h
+	"util.h"
+
+1762912598 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\file.c
+	"file.h"
+	"globals.h"
+	"inode.h"
+	"blocks.h"
+	"freespace.h"
+	"dir.h"
+
+1762899415 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\shell.c
+	"util.h"
+	"globals.h"
+	"fs.h"
+	"dir.h"
+	"file.h"
+	"freespace.h"
+	"superblock.h"
+
+1762894788 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\superblock.c
+	"superblock.h"
+	"globals.h"
+
+1762898543 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\util.c
+	"util.h"
+
+1762896496 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\pedroekauanfs\inode.c
+	"inode.h"
+	"globals.h"
+	"blocks.h"
+
+1767388134 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\blocks.c
+	"blocks.h"
+	"globals.h"
+	"freespace.h"
+	"superblock.h"
+
+1767388130 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\blocks.h
+	"util.h"
+
+1765931393 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\util.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1767384007 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\globals.h
+	"util.h"
+
+1762885134 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\freespace.h
+	"util.h"
+
+1762884886 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\superblock.h
+	"util.h"
+
+1767384337 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\dir.c
+	"dir.h"
+	"globals.h"
+	"inode.h"
+	"blocks.h"
+	"freespace.h"
+	"file.h"
+
+1767384391 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\dir.h
+	"util.h"
+
+1762914231 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\inode.h
+	"util.h"
+
+1767384140 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\file.h
+	"util.h"
+
+1762887672 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\freespace.c
+	"freespace.h"
+	"globals.h"
+
+1767383311 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\fs.c
+	"fs.h"
+	"globals.h"
+	"superblock.h"
+	"blocks.h"
+	"freespace.h"
+	"inode.h"
+	<direct.h>
+
+1762887346 e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\fs.h
+	"util.h"
+
+1767383254 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\globals.c
+	"globals.h"
+
+1767384006 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\inode.c
+	"inode.h"
+	"globals.h"
+	"blocks.h"
+
+1767388009 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\shell.c
+	"util.h"
+	"globals.h"
+	"fs.h"
+	"dir.h"
+	"file.h"
+	"freespace.h"
+	"superblock.h"
+
+1762894788 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\superblock.c
+	"superblock.h"
+	"globals.h"
+
+1767382340 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\util.c
+	"util.h"
+
+1767384399 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\file.c
+	"file.h"
+	"globals.h"
+	"inode.h"
+	"blocks.h"
+	"freespace.h"
+	"dir.h"
+
+1767388020 source:e:\visual studio pastas\ci ncia da computa«√o\2∫ ano\estrutura de dados 2\pedroekauanfs\main.c
+	"util.h"
+	"globals.h"
+	"fs.h"
+	"dir.h"
+	"file.h"
+	"freespace.h"
+	"superblock.h"
+
